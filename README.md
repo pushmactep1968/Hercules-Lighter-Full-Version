@@ -231,4 +231,4 @@ This repository serves as the official landing page for Hercules Lighter. The so
 **Get the most recent version of Hercules Lighter today!**
 
 ---
-**Last updated:** 2026-09-18 14:51:02 UTC
+**Last updated:** 2026-09-18 18:10:47 UTC
